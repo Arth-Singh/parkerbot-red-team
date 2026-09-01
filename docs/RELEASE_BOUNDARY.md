@@ -19,11 +19,11 @@
 - Private report, disclosure correspondence, and customer data.
 - Original assessment/reconnaissance framework and its Git history.
 
-## Public-release gate
+## Release controls
 
-Before changing repository visibility to public:
+For every public revision:
 
-1. Obtain written publication approval from any employer/client with a plausible
+1. Confirm publication approval from any employer/client with a plausible
    ownership or confidentiality interest.
 2. Confirm disclosure terms permit the remaining technical detail.
 3. Re-run secret, identifier, document-metadata, and Git-history checks.

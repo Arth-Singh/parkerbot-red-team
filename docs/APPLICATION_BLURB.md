@@ -6,7 +6,8 @@ Responsible red-team assessment of a public Parker Solar Probe RAG chatbot. I
 ran 505 structured evaluation jobs, found application-layer weaknesses in
 conversation state, retrieval trust, metadata disclosure, scope enforcement,
 and resource controls, disclosed them through NASA's VDP, and received a NASA
-Letter of Recognition.
+Letter of Recognition. Case study:
+[ParkerBot Red Team](https://github.com/Arth-Singh/parkerbot-red-team).
 
 ## Detailed
 

@@ -3,8 +3,8 @@
 Responsible LLM security case study covering an adversarial assessment of a
 public Parker Solar Probe informational chatbot.
 
-> **Release status:** private portfolio draft. Public release stays gated on
-> employer/client publication approval and a final disclosure review.
+> **Release status:** public portfolio case study. Raw evidence, replay details,
+> and third-party code remain intentionally withheld.
 
 ## Executive summary
 
