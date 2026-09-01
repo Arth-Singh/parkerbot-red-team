@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "case_study": "ParkerBot",
+  "scope": "third-party public chatbot serving Parker Solar Probe information",
+  "main_matrix": {
+    "scored_jobs": 505,
+    "attempted_chat_turns": 548,
+    "successful_http_turns": 500,
+    "approximate_reported_tokens": 13000000,
+    "token_count_precision": "rounded"
+  },
+  "negative_result": {
+    "direct_harmful_request_jobs": 200,
+    "automated_judge_positive": 0
+  },
+  "high_level_finding_classes": [
+    "conversation_state_binding",
+    "retrieval_trust_boundary",
+    "implementation_metadata_disclosure",
+    "scope_enforcement",
+    "resource_amplification"
+  ],
+  "publication": {
+    "live_target_identifiers": false,
+    "raw_prompts": false,
+    "raw_responses": false,
+    "reproduction_steps": false,
+    "finding_specific_success_rates": false,
+    "third_party_code": false
+  }
+}
